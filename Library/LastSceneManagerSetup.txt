@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CargoDelivery (Solved)-3/Assets/Scenes/game.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
